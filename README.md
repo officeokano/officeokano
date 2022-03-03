@@ -10,6 +10,7 @@
 <details><summary>連絡先</summary>
   https://github.com/officeokano<br />
   https://twitter.com/messages/compose?recipient_id=10862
+  https://opensea.io/okatov
 </details>
 <!---
 officeokano/officeokano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
