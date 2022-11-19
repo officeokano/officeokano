@@ -10,7 +10,7 @@
 <details><summary>連絡先</summary>
   https://github.com/officeokano<br />
   https://www.t.me/xitoc1<br />
-  https://mastodon.social/@xfer<br/>
+  https://social.vivaldi.net/@okano<br/>
   https://twitter.com/messages/compose?recipient_id=10862<br />
   https://opensea.io/0x0d_550C<br />
 </details>
