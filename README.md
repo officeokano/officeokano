@@ -4,14 +4,14 @@
 <details><summary>雑記</summary>
   https://officeokano.github.io/miscellaneous/
 </details>
-<details><summary>Medium</summary>
-  https://medium.com/okano
+<details><summary>Wordpress</summary>
+  https://okanomail.wordpress.com
 </details>
 <details><summary>連絡先</summary>
   https://github.com/officeokano<br />
+  https://matrix.to/#/@okano:mozilla.org<br />
   https://www.t.me/xitoc1<br />
   https://social.vivaldi.net/@okano<br/>
-  https://twitter.com/messages/compose?recipient_id=10862<br />
   https://opensea.io/0x0d_550C<br />
 </details>
 <!---
