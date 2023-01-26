@@ -10,7 +10,6 @@
 <details><summary>連絡先</summary>
   https://github.com/officeokano<br />
   https://matrix.to/#/@okano:mozilla.org<br />
-  https://www.t.me/xitoc1<br />
   https://social.vivaldi.net/@okano<br/>
   https://opensea.io/0x0d_550C<br />
 </details>
